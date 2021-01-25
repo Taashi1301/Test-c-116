@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fworshiphousemedia.s3.amazonaws.com%2Fimages%2Fmain%2Fs%2Fmo%2Fv2w%2Fmo%2Froyalcrownbackgroundloop.jpg&f=1&nofb=1");
+    font-family: 'Balsamiq Sans', cursive;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: aliceblue;
+}
+.snapshot{
+   color: mediumslateblue;
+   background-color: antiquewhite; 
+}
+canvas{
+    margin-top: 150px;
+    box-shadow:10px 10px 10px red;
+    border: 3px royalblue solid;
+    border-radius: 30px;
+}
